@@ -1,4 +1,4 @@
 # hello-world
 It's tradition :]
 
-Hello World! My name is Lyndon. I am a Computer Science student at IUP.
+Hello World! My name is Lyndon. I am a Computer Science student at IUP and these are all the programming languages I've studied.
